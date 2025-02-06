@@ -1,4 +1,5 @@
  Indian-Premier-League-Analysis: Dashboard Excel Project
+
  Project Overview:
  The goal of this project is to analyze and present data on the Indian Premier League (IPL) over several seasons. This analysis could include team performance, player statistics,bat first and field first 
  Excel will be used as the primary tool for organizing, calculating, and visualizing the data. Key insights could be drawn for teams, players, and even specific seasons
